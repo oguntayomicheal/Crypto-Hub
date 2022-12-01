@@ -17,4 +17,3 @@ describe('testing Home page', () => {
     expect(Home).toMatchSnapshot();
   });
 });
-
