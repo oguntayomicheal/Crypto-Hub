@@ -1,0 +1,56 @@
+.inputCtn {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 40px 0px;
+}
+
+input {
+    width: 70%;
+    height: 40px;
+    text-align: center;
+}
+
+.allCoins {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.eachCoin {
+    width: 45%;
+    /* gap: 10%; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+.coinImg {
+    width: 150px;
+    height: 100px;
+    margin-top: 10px;
+}
+
+.paraAlign {
+    text-align: center;
+    margin: 5px 0px;
+}
+
+.price {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.icon {
+    font-size: 24px;
+}
+
