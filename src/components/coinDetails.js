@@ -3,7 +3,7 @@ import { useLocation, Link } from 'react-router-dom';
 import React from 'react';
 import styles from './css/coinDetails.module.css';
 
-const coinDetails = () => {
+const CoinDetails = () => {
   const location = useLocation();
   const { state } = location;
 
@@ -63,4 +63,4 @@ const coinDetails = () => {
   );
 };
 
-export default coinDetails;
+export default CoinDetails;

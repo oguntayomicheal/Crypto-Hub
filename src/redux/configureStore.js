@@ -6,7 +6,6 @@ import {
 import thunk from 'redux-thunk';
 
 import { prodReducer } from './Data/Data';
-// import coinReducer from './Data/CoinDetails';
 
 const reducer = combineReducers({
   data: prodReducer,
