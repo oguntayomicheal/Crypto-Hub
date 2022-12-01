@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import CoinList from './CoinList';
 import fetchProducts from '../redux/Data/Data';
+import Navbar from './Navbar';
 import style from './css/HomePage.module.css';
 
 const HomePage = () => {
@@ -16,6 +17,8 @@ const HomePage = () => {
 
   return (
     <>
+      <img src="./cryptoHub.jpg" alt="cryptoHub" className={style.bannerImg} />
+      <Navbar />
       <div className={style.inputCtn}>
         <input
           type="text"

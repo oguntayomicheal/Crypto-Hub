@@ -1,3 +1,26 @@
+.bannerImg {
+    width: 100%;
+    height: 200px;
+}
+
+.navbar {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Nav {
+    text-decoration: none;
+    font-size: larger;
+}
+
+.navIcon {
+    width: 30px;
+    display: flex;
+    gap: 10px;
+}
+
 .inputCtn {
     width: 100%;
     display: flex;
