@@ -1,4 +1,4 @@
-// /* eslint-disable */
+/* eslint-disable */
 import { useLocation, Link } from 'react-router-dom';
 import React from 'react';
 import styles from './css/coinDetails.module.css';
