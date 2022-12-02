@@ -13,9 +13,6 @@
 
 # 📗 Table of Contents
 
-  - [📝 License ](#-license-)
-- [(back to top)](#back-to-top-1)
-
 <!-- PROJECT DESCRIPTION -->
 
 - [📗 Table of Contents](#-table-of-contents)
@@ -41,7 +38,7 @@
 # 📖 Crypto Hub <a name="about-project"></a>
 
 > A web application for users to check out crypto coins and see current details about each coins. Crypto data is been fetched from an API which helps update the details to the current one.
->>>>>>> develop
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
