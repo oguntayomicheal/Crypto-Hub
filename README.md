@@ -14,10 +14,12 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Space Travelers Hub ](#-space-travelers-hub-)
+- [📖 Crypto Hub ](#-crypto-hub-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [🚀 Loom video ](#-loom-video-)
   - [💻 Getting Started ](#-getting-started-)
     - [Setup](#setup)
     - [Install](#install)
@@ -31,9 +33,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Space Travelers Hub <a name="about-project"></a>
+# 📖 Crypto Hub <a name="about-project"></a>
 
-> A web application for a company that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions.
+> A web application for users to check out crypto coins and see current details about each coins. Crypto data is been fetched from an API which helps update the details to the current one.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -46,12 +48,26 @@
 
 ### Key Features <a name="key-features"></a>
 
-- Display a list of of available rockets
-- Display a list of of available missions
-- Reserve rockets and cancle reservations
+- Display a list of of Crytocurrencies
+- Show more details about each crypto coin.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+
+> Add a link to the deployed project.
+
+- [Live Demo Link](https://lighthearted-palmier-bad876.netlify.app/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Loom video <a name="live-demo"></a>
+
+> A video Explaining The app
+- [Loom Video](https://www.loom.com/share/3b97f35973e3434a8f7333a4f5042b02)
 
 
 <!-- GETTING STARTED -->
@@ -88,12 +104,6 @@
 - Twitter: [@OguntayoMicheal](https://twitter.com/Oguns_micky)
 - LinkedIn: [@OguntayoMicheal](https://www.linkedin.com/in/ogunsmicky/)
 
-👤 **Masouma Modarresi**
-
-- GitHub: [@Masouma Modarresi](https://github.com/Masouma864)
-- Twitter: [@Masouma Modarresi]()
-- LinkedIn: [@Masouma Modarresi]()
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -124,8 +134,8 @@ If you like this project kindly give a star
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-
-We would like to thank Microverse for the readme file template
+- I would like to thank [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio) for inspiring the design. 
+- I would like to thank Microverse for the readme file template
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
