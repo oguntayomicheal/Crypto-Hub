@@ -1,0 +1,30 @@
+.coinDet {
+  width: 90%;
+  margin: 30px auto auto auto;
+}
+
+.icon {
+  font-size: 24px;
+}
+
+.allDet {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.img {
+  margin-bottom: 10px;
+}
+
+.eachDet {
+  width: 60%;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10px;
+}
+
+.eachDet:nth-child(odd) {
+  background-color: #9ff;
+}
